@@ -1,5 +1,7 @@
 <h1>Welcome to my world 👋</h1>
 <a href="https://hunpage.netlify.app"><img src="https://img.shields.io/badge/My HomePage-EA4AAA?style=for-the-badge&logo=GitHub Sponsors&logoColor=black"></a>
+<a href="https://tender-river-902.notion.site/TIL-b0cb4073403f43cb9cae81f3da7923e7"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+
 <ul>
 <li><h4>I'm Hun & 3 languages speaker (Korean, Mandarin, English)</h4></li>
 <li><h4>Interested in playing piano</h4></li>
