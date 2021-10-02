@@ -6,6 +6,7 @@
 <li><h4>I'm Hun & 3 languages speaker (Korean, Mandarin, English)</h4></li>
 <li><h4>Interested in playing piano</h4></li>
 <li><h4>Workout with techno music</h4></li>
+<li><h4>Hope to work with Toss</h4></li>
 </ul>
 <h2>Most skillful 🛠</div>
 <br/>
