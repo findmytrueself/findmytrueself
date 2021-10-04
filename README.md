@@ -43,12 +43,11 @@
 ![my stat](https://github-readme-stats.vercel.app/api?username=findmytrueself&theme=radical&show_icons=true&hide=prs,contribs)
 ![my stat2](https://github-readme-stats.vercel.app/api/top-langs/?username=findmytrueself&layout=compact&theme=radical)
 
-<div align=center>
-
-![https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2findmytrueself](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2findmytrueself)
-
-  
-</div>
+  <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2findmytrueself)](https://hits.seeyoufarm.com) 
+	
+  </div>
 <h1 align="center">😄 Let's get to my commit journey 👇</div>
 
 <!--
