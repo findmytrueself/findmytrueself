@@ -3,7 +3,7 @@
 <a href="https://tender-river-902.notion.site/TIL-b0cb4073403f43cb9cae81f3da7923e7"><img src="https://img.shields.io/badge/TIL Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 
 <ul>
-<li><h4>I'm Hun & 3 languages speaker (Korean, Mandarin, English)</h4></li>
+<li><h4>I'm Hun & 3 languages speaker (Korean, English, Chinese)</h4></li>
 <li><h4>Interested in playing piano</h4></li>
 <li><h4>Workout with techno music</h4></li>
 </ul>
