@@ -4,8 +4,8 @@
 
 <ul>
 <li><h4>I'm Hun & 3 languages speaker (Korean, English, Chinese)</h4></li>
-<li><h4>Interested in playing piano</h4></li>
-<li><h4>Workout with techno music</h4></li>
+<li><h4>Interested in to be a good Frontend devloper</h4></li>
+<li><h4>Workout with techno music & playing piano</h4></li>
 </ul>
 <h2>Most skillful 🛠</div>
 <br/>
