@@ -17,8 +17,6 @@
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">	
 <img src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 </div>
-<br/>
-<br/>
 <h2>Contact Me 💬</div>
 <br/>
 <br/>
