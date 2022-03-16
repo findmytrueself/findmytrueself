@@ -17,13 +17,8 @@
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">	
 <img src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 </div>
-<h2>Now I'm focusing on ✍️</div>
 <br/>
 <br/>
-<div>
-<img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white">
-</div>
-
 <h2>Contact Me 💬</div>
 <br/>
 <br/>
