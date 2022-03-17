@@ -6,6 +6,7 @@
 <li><h4>I'm Hun & 3 languages speaker (Korean, English, Chinese)</h4></li>
 <li><h4>Strive to be a good Frontend devloper</h4></li>
 <li><h4>Workout, Meditation, Planning everyday</h4></li>
+<li><h4>주말엔 쉽니다 :)</h4></li>
 </ul>
 <h2>Most skillful 🛠</div>
 <br/>
