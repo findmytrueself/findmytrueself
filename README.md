@@ -2,9 +2,8 @@
 <a href="https://tender-river-902.notion.site/TIL-b0cb4073403f43cb9cae81f3da7923e7"><img src="https://img.shields.io/badge/TIL Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 
 <ul>
-<li><h4>I'm Hun & 3 languages speaker (Korean, English, Chinese)</h4></li>
-<li><h4>Strive to be a good Frontend developer</h4></li>
-<li><h4>Positive personality</h4></li>
+<li><h4>Basically, I've been developing frontend on Web3</h4></li>
+<li><h4>I always develop with UX in mind</h4></li>
 </ul>
 <h2>Most skillful 🛠</div>
 <br/>
