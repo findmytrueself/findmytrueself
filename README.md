@@ -19,15 +19,4 @@
 <br/>
 <div>
 <a href="mailto:load1999@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://discordapp.com/channels/@me/load1999@gmail.com/"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
-<h2>Personal Social Media 👯</div>
-<br/>
-<br/>
-<div>
-<a href="https://www.linkedin.com/in/findmytrueself"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
-<h2>GitHub Stats ❤️</h2>
-
-![my stat](https://github-readme-stats.vercel.app/api?username=findmytrueself&theme=radical&show_icons=true&hide=prs,contribs)
-![my stat2](https://github-readme-stats.vercel.app/api/top-langs/?username=findmytrueself&layout=compact&theme=radical)
